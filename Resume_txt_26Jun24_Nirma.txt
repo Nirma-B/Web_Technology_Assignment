@@ -33,6 +33,15 @@ Data Structures & Algorithms
 C, C++, Java, Python
 Microsoft Office
 
+Projects:
+Title: Heart Disease prediction
+Technology:Python
+Tool:Visual Studio
+
+Title:Food Donation App
+Technology:XML,Java,Firebase
+Tool:Android Studio
+
 Languages known:
 English
 Kannada
