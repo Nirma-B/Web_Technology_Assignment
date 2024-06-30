@@ -47,5 +47,5 @@ HTML, CSS and Javascript for Web Developers by Coursera at John Hopkins Universi
 Supervised Machine learning : Regression & Classification by Stanford
 
 Declaration:
-I hereby declare that above furnished particulars are true to the best of my knowledge and belief.
+I hereby declare that above furnished information are true to the best of my knowledge.
 
