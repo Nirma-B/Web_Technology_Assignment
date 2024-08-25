@@ -1,23 +1,25 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Header from './Components/Header';
+import Footer from './Components/Footer';
+import Form from './Components/Form';
+import Gallery from './Components/Gallery';
 
 function App() {
+ 
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Header />
+      <main>
+        <Form />
+        <Gallery />
+        <div className="terms-and-conditions">
+          <label id="checkbox">
+            <input type="checkbox" required /> I agree to the <a href="/terms">terms & conditions</a>.
+          </label>
+        </div>
+      </main>
+      <Footer />
     </div>
   );
 }
