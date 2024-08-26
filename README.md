@@ -1,2 +1,2 @@
 # Web Technology
-<img src="https://github.com/user-attachments/assets/50e50b3b-f438-4430-bb15-8acf2b475e40" width="1500px" height="1500px"/>
+<img src="https://github.com/user-attachments/assets/50e50b3b-f438-4430-bb15-8acf2b475e40" width="2500px" height="2500px"/>
